@@ -11,7 +11,7 @@ Currently focusing on **Node.js, Prisma, and React Native** projects while prepa
 
 <p align="left">
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,reactnative,expo,vite,tailwind,angular,vue,nextjs" alt="Frontend" title="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,flutter,vite,tailwind,angular,vue,nextjs" alt="Frontend" title="Frontend" />
   <br/>
 
   <!-- Backend -->
@@ -57,21 +57,17 @@ Currently focusing on **Node.js, Prisma, and React Native** projects while prepa
 
 ## 🌱 Current Focus  
 - Advanced **Full-Stack Development** with modern frameworks  
-- **AI/Robotics** applications with **LangChain & MCP Servers**  
-- Preparing for **Fall 2026 applications**  
-
+- **AI**  
 ---
 
 ## 📫 Let’s Connect  
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn"/>
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:tuyishimenaome27@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Email"/>
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" title="Twitter"/>
-  </a>
+ <a href="https://wa.me/250793099772" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" title="WhatsApp" width="40" height="40"/>
+</a>
+
 </p>
