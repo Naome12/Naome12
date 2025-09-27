@@ -1,10 +1,8 @@
 # 👋 Hi, I’m Naome  
 
-💻 **Full-Stack Developer** | 🤖 **AI & Robotics Enthusiast**  
+ **Full-Stack Developer** | **AI Enthusiast**  
 
 I’m passionate about building scalable applications, intelligent systems, and impactful solutions.  
-Currently focusing on **Node.js, Prisma, and React Native** projects while preparing for **Fall 2026 applications**.  
-
 ---
 
 ## 🔧 Tech Stack  
@@ -28,7 +26,7 @@ Currently focusing on **Node.js, Prisma, and React Native** projects while prepa
 
   <!-- AI -->
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI/ML" title="AI/ML" />
-  <img src="[https://raw.githubusercontent.com/langchain-ai/.github/main/profile/langchain-logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nuget.org%2Fpackages%2FLangChain%2F&psig=AOvVaw28FcGnirsTjlaQ_Sdjyfj_&ust=1759095561271000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDcv-bz-Y8DFQAAAAAdAAAAABAE)" height="48" alt="LangChain" title="LangChain" />
+  <img src="[[https://raw.githubusercontent.com/langchain-ai/.github/main/profile/langchain-logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nuget.org%2Fpackages%2FLangChain%2F&psig=AOvVaw28FcGnirsTjlaQ_Sdjyfj_&ust=1759095561271000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDcv-bz-Y8DFQAAAAAdAAAAABAE)](https://api.nuget.org/v3-flatcontainer/langchain/0.17.0/icon)" height="48" alt="LangChain" title="LangChain" />
 </p>
 
 ---
@@ -42,7 +40,7 @@ Currently focusing on **Node.js, Prisma, and React Native** projects while prepa
 
 ---
 
-## 🏆 Detailed GitHub Metrics  
+## GitHub Metrics  
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naome12&theme=tokyonight" alt="Summary Stats" height="180"/>
