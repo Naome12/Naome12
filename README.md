@@ -23,7 +23,7 @@ Currently focusing on **Node.js, Prisma, and React Native** projects while prepa
   <br/>
 
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,docker,swagger,postman" alt="Tools" title="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,docker,postman" alt="Tools" title="Tools" />
   <br/>
 
   <!-- AI -->
@@ -36,8 +36,8 @@ Currently focusing on **Node.js, Prisma, and React Native** projects while prepa
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naome-tuyishime&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naome-tuyishime&layout=compact&theme=tokyonight" alt="Top languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Naome12&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naome12&layout=compact&theme=tokyonight" alt="Top languages" height="180"/>
 </p>
 
 ---
