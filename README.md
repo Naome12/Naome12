@@ -5,7 +5,12 @@
 I’m passionate about building scalable applications, intelligent systems, and impactful solutions.  
 ---
 
-## 🔧 Tech Stack  
+## 🌱 Current Focus  
+- Advanced **Full-Stack Development** with modern frameworks  
+- **AI**  
+---
+
+## Tech Stack  
 
 <p align="left">
   <!-- Frontend -->
@@ -17,7 +22,7 @@ I’m passionate about building scalable applications, intelligent systems, and 
   <br/>
 
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,graphql" alt="Databases" title="Databases" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,graphql,supabase" alt="Databases" title="Databases" />
   <br/>
 
   <!-- Tools -->
@@ -40,23 +45,6 @@ I’m passionate about building scalable applications, intelligent systems, and 
 
 ---
 
-## GitHub Metrics  
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naome12&theme=tokyonight" alt="Summary Stats" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naome12&theme=tokyonight&utcOffset=2" alt="Commits by time" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naome12&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🌱 Current Focus  
-- Advanced **Full-Stack Development** with modern frameworks  
-- **AI**  
----
 
 ## 📫 Let’s Connect  
 
