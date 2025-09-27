@@ -27,7 +27,8 @@ Currently focusing on **Node.js, Prisma, and React Native** projects while prepa
   <br/>
 
   <!-- AI -->
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI/ML" title="AI/ML (Langchain, MCP Servers)" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI/ML" title="AI/ML" />
+  <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/langchain-logo.png" height="48" alt="LangChain" title="LangChain" />
 </p>
 
 ---
@@ -41,9 +42,22 @@ Currently focusing on **Node.js, Prisma, and React Native** projects while prepa
 
 ---
 
+## 🏆 Detailed GitHub Metrics  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naome-tuyishime&theme=tokyonight" alt="Summary Stats" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naome-tuyishime&theme=tokyonight&utcOffset=2" alt="Commits by time" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=naome-tuyishime&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 🌱 Current Focus  
 - Advanced **Full-Stack Development** with modern frameworks  
-- **AI/Robotics** applications with Langchain & MCP servers  
+- **AI/Robotics** applications with **LangChain & MCP Servers**  
 - Preparing for **Fall 2026 applications**  
 
 ---
