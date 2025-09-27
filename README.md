@@ -11,7 +11,7 @@ Currently focusing on **Node.js, Prisma, and React Native** projects while prepa
 
 <p align="left">
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,reactnative,flutter,vite,tailwind,angular,vue,nextjs" alt="Frontend" title="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,vite,tailwind,angular,vue,nextjs" alt="Frontend" title="Frontend" />
   <br/>
 
   <!-- Backend -->
@@ -28,7 +28,7 @@ Currently focusing on **Node.js, Prisma, and React Native** projects while prepa
 
   <!-- AI -->
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI/ML" title="AI/ML" />
-  <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/langchain-logo.png" height="48" alt="LangChain" title="LangChain" />
+  <img src="[https://raw.githubusercontent.com/langchain-ai/.github/main/profile/langchain-logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nuget.org%2Fpackages%2FLangChain%2F&psig=AOvVaw28FcGnirsTjlaQ_Sdjyfj_&ust=1759095561271000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDcv-bz-Y8DFQAAAAAdAAAAABAE)" height="48" alt="LangChain" title="LangChain" />
 </p>
 
 ---
@@ -45,12 +45,12 @@ Currently focusing on **Node.js, Prisma, and React Native** projects while prepa
 ## 🏆 Detailed GitHub Metrics  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naome-tuyishime&theme=tokyonight" alt="Summary Stats" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naome-tuyishime&theme=tokyonight&utcOffset=2" alt="Commits by time" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naome12&theme=tokyonight" alt="Summary Stats" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naome12&theme=tokyonight&utcOffset=2" alt="Commits by time" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naome-tuyishime&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Naome12&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
