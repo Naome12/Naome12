@@ -15,23 +15,18 @@ I’m passionate about building scalable applications, intelligent systems, and 
 <p align="left">
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=react,flutter,vite,tailwind,angular,vue,nextjs" alt="Frontend" title="Frontend" />
-  <br/>
 
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs,express,spring,prisma,go" alt="Backend" title="Backend" />
-  <br/>
-
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,graphql,supabase" alt="Databases" title="Databases" />
-  <br/>
-
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,docker,postman" alt="Tools" title="Tools" />
-  <br/>
 
   <!-- AI -->
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI/ML" title="AI/ML" />
   <img src="[[https://raw.githubusercontent.com/langchain-ai/.github/main/profile/langchain-logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nuget.org%2Fpackages%2FLangChain%2F&psig=AOvVaw28FcGnirsTjlaQ_Sdjyfj_&ust=1759095561271000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDcv-bz-Y8DFQAAAAAdAAAAABAE)](https://api.nuget.org/v3-flatcontainer/langchain/0.17.0/icon)" height="48" alt="LangChain" title="LangChain" />
+    <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,docker,postman" alt="Tools" title="Tools" />
+
 </p>
 
 ---
@@ -46,14 +41,15 @@ I’m passionate about building scalable applications, intelligent systems, and 
 ---
 
 
-## 📫 Let’s Connect  
+## Let’s Connec  
 
 <p align="left">
   <a href="mailto:tuyishimenaome27@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Email"/>
-  </a>
+  </a><span>:tuyishimenaome27@gmail.com</span>
+  <br/>
  <a href="https://wa.me/250793099772" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" title="WhatsApp" width="40" height="40"/>
-</a>
+</a><span>+250 793 099 772</span>
 
 </p>
