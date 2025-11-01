@@ -31,25 +31,5 @@ I’m passionate about building scalable applications, intelligent systems, and 
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naome12&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naome12&layout=compact&theme=tokyonight" alt="Top languages" height="180"/>
-</p>
-
----
-
-
-## Let’s Connec  
-
-<p align="left">
-  <a href="mailto:tuyishimenaome27@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Email"/>
-  </a><span>:tuyishimenaome27@gmail.com</span>
-  <br/>
- <a href="https://wa.me/250793099772" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" title="WhatsApp" width="40" height="40"/>
-</a><span>+250 793 099 772</span>
 
 </p>
