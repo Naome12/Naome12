@@ -17,7 +17,7 @@ I’m passionate about building scalable applications, intelligent systems, and 
   <img src="https://skillicons.dev/icons?i=react,flutter,vite,tailwind,angular,vue,nextjs" alt="Frontend" title="Frontend" />
 
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,prisma,go" alt="Backend" title="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,prisma,go" alt="Backend" title="Backend" />
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,graphql,supabase" alt="Databases" title="Databases" />
 
